@@ -26,7 +26,7 @@ start the app by using 'npm i' and use the localhost 3001 to run the application
 - Bootstrap
 - Javascript
 - Node.js
-  - Express.js
+- Express.js
 
 ## Images of Application
 
