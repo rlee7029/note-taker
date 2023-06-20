@@ -31,3 +31,4 @@ start the app by using 'npm i' and use the localhost 3001 to run the application
 ## Images of Application
 
 ![Delpoyed Image](./images/IMG1.jpeg)
+Also you can visit the page on Heroku delpyed appliation:https://note-takerforme-3ee6bf00a2cd.herokuapp.com/
