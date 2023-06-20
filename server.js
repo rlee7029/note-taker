@@ -46,7 +46,7 @@ app.get("/api/notes", (req, res) => {
    fs.writeFile("./db/db.json", addData, (err) => {
      err ? console.error("Error") : console.log("Success");
    });
-   res.json("New Note Added.");
+   res.json("Notes were added.");
  });
 
  // Updates and deletes notes
